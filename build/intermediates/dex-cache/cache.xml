@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_a92f5490ca249f8480aa53e8b5086f1950d076e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_5059075c1ca8b7b12c832d56fd9a7761ed66426c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dad191d1f47fd2b4f753f56c06cfe60fc9f366bb">
+        <dex dex="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c295aae1b4b69dfabc77e35545a4c1b877bb322e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d559ee50b326f565103fb08cbfbc00db22595d96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/administrador/AndroidStudioProjects/Curso4Tarea3_1/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_4c429b47a13a326d97ea379e01ef41a1bc9d04ad/classes.dex" />
+    </item>
+
+</items>
